@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dali belkouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dali belkouri" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dali belkouri](https://www.linkedin.com/in/dali-belkouri-795896225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dali belkouri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamed ali belkouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed ali belkouri" height="30" width="40" /></a>
 </p>
 
